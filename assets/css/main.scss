@@ -83,3 +83,7 @@ footer {
     -webkit-appearance: button; /* Ensures it’s recognized as a button */
     z-index: 10; /* Higher z-index to bring it to the front */
 }
+
+.justified-text {
+    text-align: justify;
+}
