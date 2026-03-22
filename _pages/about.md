@@ -12,9 +12,6 @@ redirect_from:
 I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 <!-- Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology. -->
 
-<!-- I will be joining the Mays Business School at Texas A&M University in Fall 2025. -->
-
-
 
 ## Publications     
 
