@@ -26,10 +26,16 @@ with Bryan Kelly and Semyon Malamud
 
 ## Working Papers     
 
-### [*Professional Investors and Media Narrativess*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
+### [*The Macro Alibi: Subjective Risk Attribution in Analyst Scenarios*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6859500)
+with Chen Wang   
+
+*Abstract*: Sell-side analysts over-attribute a stock's downside risk to macroeconomic forces, near-unconditionally. We document this \textit{Macro Bear Bias} in scenario-based valuation reports: bear-case narratives overemphasize aggregate macro risk relative to base- or bull-case narratives, even though realized CAPM $R^2$ is similar across bear, base, and bull outcomes conditional on the same market state. The bear--base macro-attention gap predicts systematic pessimism in subsequent base-case forecasts, and portfolios formed on a nonlinear bias-adjusted signal earn monthly CAPM alphas of up to $1.9\%$. Mechanism tests favor a cognitive availability-heuristic explanation---analysts anchor downside narratives on salient macro-crisis templates---over a strategic career-concerns explanation. Narrative templates analysts use to rationalize risk can distort analysts' numerical forecasts and asset prices.
+
+
+### [*Professional Investors and Media Topics*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
-*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. This strategy leads to mutual fund underperformance but attracts investor flows. Topic-oriented strategies account for a large fraction, specifically 37%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
+*Abstract*: I investigate the impact of media topics on the portfolio strategies of active equity mutual funds. Using 1.5 million Wall Street Journal articles from 1984 to 2023, I use ChatGPT to distill media news information into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. {This strategy leads to mutual fund underperformance but attracts investor flows.} Topic-oriented strategies account for a large fraction, specifically 37%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
 
 
 ### [*The Virtue of Complexity Everywhere*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4166368)
